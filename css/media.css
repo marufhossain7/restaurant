@@ -1,0 +1,384 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*header start*/
+.menu ul li a{
+    padding: 0 !important;
+}
+#mynavbar .d-menu{
+    left: 115px;
+    top: -14px;
+    background-color: #2d1f1e;
+    opacity: .7;   
+}
+/*head line*/
+.h-line{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.h1-text{
+    font-size: 25px;
+}
+.h2-text{
+    font-size: 16px;
+}
+/*button*/
+.btn-1{
+    margin-bottom: 8px;
+}
+/*scroll*/
+.scroll{
+    margin: 50px 0 0 0;
+}
+
+/*header end*/
+/*about start*/
+.about{
+    padding: 30px 0 270px 0;
+}
+.about-text{
+    margin-top: 0;
+    margin-bottom: 40px;
+    line-height: 1.05;
+}
+.w-img {
+    margin: auto;
+}
+.btn-3{
+    float: none !important;
+}
+.h3-text {
+    font-size: 25px;
+    margin-top: 10px;
+}
+.p-text{
+    font-size: 14px;
+}
+.ab-man {
+    top: 25px;
+    left: 27px;
+}
+.abc-img {
+    top: 232px;
+    left: 6px;
+}
+/*about end*/
+/*tasteful start*/
+
+.tasteful {
+    margin: 40px 0 40px 0;
+}
+.tp2 {
+    height: 130px;
+}
+.tp3 {
+    width: 100%;
+    height: auto;
+}
+.ts-about {
+    margin-top: 20px;
+}
+
+.btn3{
+    margin-left: 37px;
+}
+/*tasteful end*/
+/*event start*/
+.event {
+    background-color: #f7f7f7;
+    padding: 40px 0 40px 0;
+}
+
+.h4-text {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 22px;
+}
+.rbox {
+    margin-right: 0;
+}
+.ubox{
+    margin-left: 0;
+    margin-top: 35px;
+}
+.s-item {
+    margin-bottom: 10px;
+}
+/*event end*/
+/*booking start*/
+.booking {
+    padding: 30px 0 30px 0;
+}
+
+/*booking end*/
+/*footer start*/
+.footer {
+    padding: 30px 0 30px 0;
+}
+.f-head {
+    font-size: 16px;
+    margin-top: 18px;
+}
+.f-about {
+    font-size: 14px;
+}
+.f-text {
+    font-size: 14px;
+}
+.f-icon li {
+    margin-right: 9px;
+    font-size: 14px;
+}
+.f-about li a {
+padding: 0;
+}
+/*footer start*/
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+.menu ul li a{
+    padding: 0 !important;
+}
+#mynavbar .d-menu{
+    left: 115px;
+    top: -14px;
+    background-color: #2d1f1e;
+    opacity: .7;   
+}
+/*head line*/
+.h-line{
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.h1-text{
+    font-size: 40px;
+}
+.h2-text{
+    font-size: 25px;
+}
+/*scroll*/
+.scroll{
+    margin: 70px 0 0 0;
+}
+/*header end*/
+/*about start*/
+.about{
+    padding: 65px 0 410px 0;
+}
+.ab-main{
+    margin-bottom: 12px;
+}
+.about-text{
+    margin-top: 0;
+    margin-bottom: 50px;
+    line-height: 1.05;
+}
+.w-img {
+    margin: auto;
+}
+.btn-3{
+    float: none !important;
+}
+.h3-text {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.p-text{
+    font-size: 16px;
+}
+.ab-man {
+    top: 25px;
+    left: 46px;
+}
+.abc-img {
+    top: 355px;
+    left: 6px;
+}
+/*about end*/
+/*tasteful start*/
+
+.tasteful {
+    margin: 50px 0 60px 0;
+}
+.tp2 {
+    height: 240px;
+}
+.tp3 {
+    width: 100%;
+    height: auto;
+}
+.ts-about {
+    margin-top: 20px;
+}
+
+.btn3{
+    margin-left: 125px;
+}
+/*tasteful end*/
+/*event start*/
+.event {
+    background-color: #f7f7f7;
+    padding: 60px 0 60px 0;
+}
+
+.h4-text {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 22px;
+}
+.rbox {
+    margin-right: 0;
+}
+.ubox{
+    margin-left: 0;
+    margin-top: 35px;
+}
+.s-item {
+    margin-bottom: 10px;
+}
+/*event end*/
+/*booking start*/
+.booking {
+    padding: 30px 0 30px 0;
+}
+.h3-t2{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.pt2{
+    font-size: 12px !important;
+}
+/*booking end*/
+/*footer start*/
+.footer {
+    padding: 40px 0 40px 0;
+}
+.f-head {
+    font-size: 18px;
+    margin-top: 18px;
+}
+.f-about {
+    font-size: 14px;
+}
+.f-text {
+    font-size: 16px;
+}
+.f-icon li {
+    margin-right: 28px;
+    font-size: 18px;
+}
+.f-about li a {
+    padding: 0;
+}
+/*footer start*/
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.menu ul li a{
+    padding: 0 !important;
+}
+#mynavbar .d-menu{
+    left: 115px;
+    top: -14px;
+    background-color: #2d1f1e;
+    opacity: .7;   
+}
+/*head line*/
+.h-line{
+    margin-top: 90px;
+    margin-bottom: 45px;
+}
+.h1-text{
+    font-size: 47px;
+}
+.h2-text{
+    font-size: 30px;
+}
+/*scroll*/
+.scroll{
+    margin: 90px 0 0 0;
+}
+/*header end*/
+
+/*about start*/
+.about{
+    padding: 65px 0 200px 0;
+}
+.ab-main{
+    margin-bottom: 12px;
+}
+.about-text{
+    margin-top: 0;
+    line-height: 1.05;
+}
+.btn-3{
+    float: none !important;
+}
+.h3-text {
+    font-size: 24px;
+}
+.p-text{
+    font-size: 14px;
+}
+.ab-man {
+    top: 18px;
+}
+.abc-img {
+    top: 95px;
+}
+/*about end*/
+/*tasteful start*/
+.tp2 {
+    height: 119px;
+}
+.tasteful {
+    margin: 60px 0 60px 0;
+}
+
+.ts-about {
+    margin-top: 7px;
+}
+/*tasteful end*/
+/*event start*/
+.event {
+    padding: 70px 0 70px 0;
+}
+.input-txt {
+    margin-bottom: 35px;
+}
+.h4-text {
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.btn-4{
+    margin-top: 30px;
+}
+/*event end*/
+/*booking start*/
+.booking{
+    padding: 50px 0 50px 0;
+}
+/*booking end*/
+/*footer start*/
+.footer{
+    padding: 50px 0 50px 0;
+}
+
+element.style {
+}
+.f-icon li {
+    margin-right: 23px;
+    font-size: 18px;
+}
+/*footer start*/
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... } 
